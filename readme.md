@@ -1,6 +1,6 @@
-# Student Model Distillation Project Documentation
+# Student Model Distillation 
 
-This document outlines the methodology, performance analysis, limitations, challenges, and potential improvements for distilling a teacher model into a student model using various initial layer selection strategies, specifically focusing on the DistilBERT architecture.
+This repository outlines the methodology, performance analysis, limitations, challenges, and potential improvements for distilling a teacher model into a student model using various initial layer selection strategies, specifically focusing on the DistilBERT architecture.
 
 ## Task 1: Student Layer Initialization
 
